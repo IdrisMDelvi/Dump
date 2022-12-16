@@ -1,3 +1,3 @@
-#Data Science Projects
-(Python/R/Matlab)
+Data Science Projects
+- (Python/R/Matlab)
 - Idris Delvi
